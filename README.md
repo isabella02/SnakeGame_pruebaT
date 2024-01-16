@@ -16,3 +16,5 @@ También tienen un conteo con la cantidad de manzanas que ha comido y la mejor p
 ✅ Puedes regresar al menú con las teclas P + M (es decir pausando y luego presionar M)
 
 
+*todo el diseño de este juego fue realizado por mi en canvas 🤗✨*
+![image](https://github.com/isabella02/SnakeGame_pruebaT/assets/82828398/7bc381f1-42c6-40ff-bf56-c86b5e04218d)
